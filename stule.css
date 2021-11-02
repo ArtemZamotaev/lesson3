@@ -1,0 +1,27 @@
+body{
+   text-align: center;
+}
+td {
+    border: 2px solid black;
+    color: rgb(39, 0, 112);
+    height: 90px;
+    width: 90px;
+}
+body{
+    background: rgb(2,0,36);
+    background: rgb(237,71,0);
+    background: rgb(237,71,0);
+    background: linear-gradient(90deg, rgba(237,71,0,1) 1%, rgba(0,134,255,1) 51%, rgba(0,255,8,1) 100%);
+}
+table{
+    width: 100%;
+    height: 300px;
+}
+img{
+    width: 90px;
+    height: 90px;
+}
+td:hover{
+    background-color: blueviolet;
+    font-size: 20px;
+}
